@@ -1,0 +1,22 @@
+# Visual Studio
+.vs/
+*.vscode/
+
+# Build results
+bin/
+obj/
+
+# User-specific
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Auto-generated
+*.vsidx
+*.dbmdl
+
+# Others
+node_modules/
+wwwroot/lib/
